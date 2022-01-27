@@ -3,12 +3,14 @@
 // Font imports
 @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
-$font-branding: 'Comic Sans MS', cursive;
+$font-branding: 'Alfa Slab One', cursive;
 $font-headline: 'Open Sans', sans-serif;
 $font-sans: 'Open Sans', sans-serif;
 
 // Colors
 //------------------------------------------------------------------------------
+
+/*
 // Classic Dark Theme
 $masthead-background: $gray-25;
 $main-homepage-background: $gray-10;
@@ -30,6 +32,7 @@ $elem-link-color: $gray-80;
 $elem-active-link-color: $gray-30;
 $elem-link-accent: $accent-light;
 $nav-text-color: $gray-70;
+*/
 
 .logo {
   filter: invert(100%);
